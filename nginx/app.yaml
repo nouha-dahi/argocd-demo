@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/TON_USER/argocd-demo.git
+    repoURL: https://github.com/nouha-dahi/argocd-demo.git
     targetRevision: HEAD
     path: nginx
 
